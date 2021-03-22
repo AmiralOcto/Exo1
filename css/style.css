@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: blue;
+}
+p {
+    background-color: red;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.souligne {
+    text-decoration: underline;
+}
+
+li {
+    font-style: italic;
+}
